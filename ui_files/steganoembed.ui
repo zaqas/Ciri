@@ -291,7 +291,7 @@ color:blue;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>images/rabbit.png</pixmap>
+     <pixmap>../images/rabbit.png</pixmap>
     </property>
    </widget>
    <widget class="QGroupBox" name="groupBox_6">
@@ -392,7 +392,7 @@ color:blue;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>images/photos-icon.png</pixmap>
+     <pixmap>../images/photos-icon.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="label_4">
@@ -411,7 +411,7 @@ color:blue;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>images/preferences-desktop-user-password-icon.png</pixmap>
+     <pixmap>../images/preferences-desktop-user-password-icon.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="label_5">
@@ -430,7 +430,7 @@ color:blue;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>images/white-folder-icon.png</pixmap>
+     <pixmap>../images/white-folder-icon.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="label_3">
@@ -449,7 +449,7 @@ color:blue;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>images/Document-txt.png</pixmap>
+     <pixmap>../images/Document-txt.png</pixmap>
     </property>
    </widget>
    <zorder>background_img</zorder>
