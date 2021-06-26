@@ -83,7 +83,7 @@ color:blue;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../rabbit.png</pixmap>
+     <pixmap>images/rabbit.png</pixmap>
     </property>
    </widget>
    <zorder>label</zorder>
