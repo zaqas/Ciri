@@ -58,7 +58,7 @@ color:blue;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../images/rabbit.png</pixmap>
+     <pixmap>images/rabbit.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="label">
@@ -83,7 +83,7 @@ color:blue;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../PycharmProjects/lab/checkbox-icon.png</pixmap>
+     <pixmap>images/checkbox-icon.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>false</bool>
