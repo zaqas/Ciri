@@ -209,7 +209,7 @@ color:blue;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>images/rabbit.png</pixmap>
+     <pixmap>../images/rabbit.png</pixmap>
     </property>
    </widget>
    <widget class="QGroupBox" name="password_groupbox">
@@ -299,7 +299,7 @@ color:blue;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>images/photos-icon.png</pixmap>
+     <pixmap>../images/photos-icon.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">
@@ -318,7 +318,7 @@ color:blue;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>images/unlock-icon.png</pixmap>
+     <pixmap>../images/unlock-icon.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="label_6">
@@ -337,7 +337,7 @@ color:blue;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>images/white-folder-icon.png</pixmap>
+     <pixmap>../images/white-folder-icon.png</pixmap>
     </property>
    </widget>
    <zorder>label_7</zorder>
