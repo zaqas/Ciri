@@ -22,16 +22,11 @@ If you have a carrier and you want to extract the hidden message, you must have 
 
 ## Screenshots
 
-![Ciri Screenshot 1](images/ciri_sc1.png)
-
-![Ciri Screenshot 2](images/ciri_sc2.png)
-
-![Ciri Screenshot 3](images/ciri_sc3.png)
-
-![Ciri Screenshot 4](images/ciri_sc4.png)
-
-![Ciri Screenshot 5](images/ciri_sc5.png)
-
+<img src="images/ciri_sc1.png" width="300">
+<img src="images/ciri_sc2.png" width="300">
+<img src="images/ciri_sc3.png" width="300">
+<img src="images/ciri_sc4.png" width="300">
+<img src="images/ciri_sc5.png" width="300">
 
 
 ## Requirements
