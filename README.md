@@ -13,19 +13,18 @@ To run this browser on your machine, simply run executable file or launch a term
 python ciri.py
 ```
 
-[intro.webm](https://user-images.githubusercontent.com/71812212/188294435-d09afed3-6777-4bec-9318-27f3245e6383.webm)
+[intro.webm](https://user-images.githubusercontent.com/71812212/188296064-95ff7f30-b023-4448-8181-a5c62aec735a.webm)
 
 
 ### Hiding Data
-This tool is very straightforward and everything is clear. If you want to hide a message inside an image click on "Embed". Choose a text file and enter a strong password to encrypt it. Select a carrier which holds your message and then choose a location to save your file. When you are ready click on "Embed". If the operation was successful, you'll see a check mark. Do not try to store long texts inside the image.
+This tool is very straightforward and everything is clear. If you want to hide a message inside an image click on "Embed". Choose a text file and enter a strong password to encrypt it. Select a carrier which holds your message. When you are ready click on "Embed". If the operation was successful, you'll see a check mark. Do not try to store long texts inside the image.
 
-[embed.webm](https://user-images.githubusercontent.com/71812212/188294458-9fbc9500-8040-4df0-9155-d437d6688fee.webm)
-
+[embed.webm](https://user-images.githubusercontent.com/71812212/188296106-83172d26-949a-4a7c-a6c9-02c62e16a6d3.webm)
   
 ### Extracting Data
 If you have a carrier and you want to extract the hidden message, you must have the password to decrypt the text file. Open carrier and enter password and choose a directory where you want to save your message. When you're ready click on "Extract" button. If the operation was successful, you'll see a check mark.
 
-[extract.webm](https://user-images.githubusercontent.com/71812212/188294460-cab3b2e2-d896-405c-9848-d5aac874ff2b.webm)
+[extract.webm](https://user-images.githubusercontent.com/71812212/188296125-897e67f6-5644-4740-9cd3-56dee5325e63.webm)
 
 
 ## Requirements
